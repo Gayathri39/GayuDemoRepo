@@ -1,0 +1,9 @@
+{
+	"name": "ADFGayuDemo",
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "60ffb6b0-55d3-41a8-b199-ba4688c57f98",
+		"tenantId": "cee1f514-13a5-43f9-af5a-f62aa5114e2a"
+	}
+}
